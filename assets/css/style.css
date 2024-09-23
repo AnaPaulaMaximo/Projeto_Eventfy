@@ -1,0 +1,84 @@
+@import url('https://fonts.cdnfonts.com/css/varuna');
+@import url('https://fonts.cdnfonts.com/css/gafata');
+
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* Titulos */
+
+.titulo{
+    font-family:'Varuna', sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+.titulo2{
+    font-family:'Varuna', sans-serif;
+    font-size: large;
+}
+
+.titulo3{
+    font-family:'Varuna', sans-serif;
+    font-size: large;
+}
+
+.paragrafo{
+    font-family:'gafata', monospace;
+    font-size: medium;
+}
+
+.legenda{
+    font-family:'gafata', monospace;
+    font-size: small;
+}
+
+/* Cores */
+
+.cor1{
+    color: #ff2d55;
+}
+
+.cor2{
+    color: #ff708b;
+}
+
+.cor3{
+    color: #ffb9c6;
+}
+
+.cor4{
+    color: #f6f8f7;
+}
+
+/* Display */
+
+.linha{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: black 2px solid
+}
+
+.caixa{
+    height: 100px;
+    border: gray 1px dashed;
+}
+
+.grande{
+    width: 100%;
+}
+
+.media{
+    width: 50%;
+}
+
+.pequena{
+    width: 33%;
+}
