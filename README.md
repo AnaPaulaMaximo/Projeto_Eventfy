@@ -1,3 +1,4 @@
+![imagem de capa](assets/img/readme.img/Eventfy.png)
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # EVENTFY
 **Descrição:**
