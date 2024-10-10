@@ -4,7 +4,7 @@
 **Descrição:**
 O objetvo do projeto é criar um site completo para a divulgação de eventos. Seja música, teatro, exposições de arte, festivais, até mesmo eventos com objetivos acadêmicos, religiosos ou no mercado de trabalho.
 ## Índice
--[Status](#status)
+- [Status](#status)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Autores](#autores)
